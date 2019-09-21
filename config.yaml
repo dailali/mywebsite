@@ -1,0 +1,25 @@
+baseURL: https://example.com
+languageCode: en-us
+title: Yourfolio Theme
+theme: yourfolio
+disableKinds: [RSS, taxonomy, taxonomyTerm]
+googleAnalytics: UA-XXXXX-Y
+
+# Menu items
+menu:
+  main:
+  - name: Work
+    weight: 1
+    url: /work
+  - name: About
+    weight: 2
+    url: /about
+  - name: Contact
+    weight: 3
+    url: mailto:danila.lalli@gmail.com?Subject=Hello
+
+# Custom params
+params:
+  env: development
+  logoImage: img/d_logo.png
+  logoImageAlt: Danila Lalli Logo
