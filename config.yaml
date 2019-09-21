@@ -1,6 +1,6 @@
-baseURL: https://example.com
+baseURL: https://danilalalli.com
 languageCode: en-us
-title: Yourfolio Theme
+title: Danila Lalli Website
 theme: yourfolio
 disableKinds: [RSS, taxonomy, taxonomyTerm]
 googleAnalytics: UA-XXXXX-Y
